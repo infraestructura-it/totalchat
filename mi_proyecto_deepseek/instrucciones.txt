@@ -1,0 +1,9 @@
+instalacion
+./setup_project.sh
+arranque del proyecto
+source mi_proyecto_deepseek/venv/bin/activate
+coorerlo en la raiz del directorio
+@infraestructura-it ➜ /workspaces/totalchat (main)
+activacion del proyecto
+python src/main.py
+(venv) @infraestructura-it ➜ /workspaces/totalchat/mi_proyecto_deepseek (main) $ 
